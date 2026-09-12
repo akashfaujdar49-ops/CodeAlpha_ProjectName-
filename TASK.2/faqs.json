@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How do I create an account on your website?",
+    "answer": "Click on the 'Sign Up' button on the top right corner, enter your email address and a password, then verify your email to activate your account."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Go to 'My Orders' section in your account and click on the order you want to track. You'll see real-time tracking details including courier and expected delivery date."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return most items within 7 days of delivery, provided they are unused and in original packaging. Refunds are processed within 5-7 business days after we receive the item."
+  },
+  {
+    "question": "How long does delivery usually take?",
+    "answer": "Standard delivery takes 3-5 business days. Express delivery, where available, takes 1-2 business days."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit/debit cards, UPI, net banking, popular wallets, and cash on delivery in select locations."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "You can cancel an order before it is shipped by going to 'My Orders' and selecting 'Cancel Order'. Once shipped, you'll need to use the return process instead."
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Yes, cash on delivery is available for most pin codes. You'll see the COD option at checkout if it's available for your address."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on 'Forgot Password' on the login page, enter your registered email, and follow the link sent to your inbox to set a new password."
+  },
+  {
+    "question": "Can I change my delivery address after placing an order?",
+    "answer": "You can change the delivery address only before the order is shipped. Go to 'My Orders', select the order, and choose 'Edit Address' if the option is available."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via the 'Help' section in the app/website, through live chat, or by emailing support@example.com. We typically respond within 24 hours."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Currently we only ship within the country. International shipping is not supported at this time."
+  },
+  {
+    "question": "What should I do if I received a damaged product?",
+    "answer": "Please raise a return request within 48 hours of delivery with photos of the damaged item, and we will arrange a replacement or refund."
+  },
+  {
+    "question": "How can I apply a discount coupon?",
+    "answer": "On the checkout page, enter your coupon code in the 'Apply Coupon' box and click 'Apply'. The discount will reflect in your order total if the code is valid."
+  },
+  {
+    "question": "Do you have a mobile app?",
+    "answer": "Yes, our mobile app is available on both Android (Play Store) and iOS (App Store) with the same features as the website."
+  },
+  {
+    "question": "How do I check if a product is available in my size?",
+    "answer": "On the product page, available sizes are shown as selectable options. Sizes that are out of stock will be greyed out or marked as 'Notify Me'."
+  }
+]
